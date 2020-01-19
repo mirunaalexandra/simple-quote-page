@@ -1,0 +1,33 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  line-height: 1.5;
+  width: 100%;
+  height: 100%
+}
+
+body{
+  background: url('assets/eneko-urunuela-I2YSmEUAgDY-unsplash.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.quote{
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: "Goudy Old Style";
+}
+
+.name{
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: "Baskerville";
+  padding-top: -7rem;
+}
+
+.container{
+  width: 80%;
+  padding-top: 5rem;
+  margin: 0 auto;
+}
