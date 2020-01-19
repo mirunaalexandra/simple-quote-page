@@ -17,17 +17,19 @@ body{
   text-align: center;
   font-size: 2.5rem;
   font-family: "Goudy Old Style";
+  margin-bottom: 0;
 }
 
 .name{
   text-align: center;
   font-size: 1.5rem;
   font-family: "Baskerville";
-  padding-top: -7rem;
+  margin-top: 0;
 }
 
 .container{
   width: 80%;
-  padding-top: 5rem;
+  padding-top: 0.5rem;
   margin: 0 auto;
+  color:darkslategray;
 }
